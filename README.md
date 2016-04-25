@@ -1,5 +1,4 @@
-# Expedia Code Academy
-## Node 101: Introduction to Node.js
+# Node 101: Introduction to Node.js
 ### Course Syllabus
 
 #### Instructor
