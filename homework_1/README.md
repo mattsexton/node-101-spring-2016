@@ -4,7 +4,7 @@
 Modify this file, commit it to your repository, and make a pull request to the class repository.
 
 ### Tasks
-Your Name: 
-Your Favorite Color:
+Your Name:  
+Your Favorite Color:  
 Your Favorite Food:
 
