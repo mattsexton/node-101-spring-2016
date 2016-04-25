@@ -23,10 +23,10 @@ Hipchat Room: CA Node 101
  
 #### Prior to First Class
 Before class starts, it will be helpful to have downloaded and installed the following applications:  
-Node & npm - http://ryanhlewis.com/2015/08/10/installing-node/  
-Visual Studio Code - https://code.visualstudio.com/  
-Github - https://desktop.github.com/  
-Hipchat - https://confluence/display/GOSO/HipChat+account+creation+and+management  
+**Node & npm** - http://ryanhlewis.com/2015/08/10/installing-node/  
+**Visual Studio Code** - https://code.visualstudio.com/  
+**Github** - https://desktop.github.com/  
+**Hipchat** - https://confluence/display/GOSO/HipChat+account+creation+and+management  
 
 Please create a public Github account before the class begins: https://github.com/join
 
