@@ -39,8 +39,7 @@ If you have any issues installing or following any of the above instructions, pl
  
 **5/3 Class 2 Topics:** Data Types; Syntax; Nodeschool
  
-**5/10 Class 3 Topic:** debugging & error handling; what is npm?
-Modules; Working with libraries; Logic/Flow Control; 
+**5/10 Class 3 Topic:** Logic/Flow Control; Debugging & Error Handling; Modules
  
 **5/17 Class 4 Topic:** Objects, Arrays, and JSON
  
