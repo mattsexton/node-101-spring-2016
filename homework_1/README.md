@@ -6,7 +6,7 @@
 - Make a pull request to the class repository
 
 ### Tasks
-Your Name:  
-Your Favorite Color:  
-Your Favorite Food:
+Your Name: Shashank Agarwal
+Your Favorite Color: Depends
+Your Favorite Food: Indian
 
