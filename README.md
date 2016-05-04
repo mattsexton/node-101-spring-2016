@@ -36,11 +36,11 @@ If you have any issues installing or following any of the above instructions, pl
 
 **4/26 Class 1 Topics:** What is Node? What is npm? Node REPL; Hello World example and how to submit homework.
 
-**5/3 Class 2 Topics:** Data Types; Modules; debugging & error handling
+**5/3 Class 2 Topics:** Data Types; Syntax; nodeschool;
 
-**5/10 Class 3 Topic:** Working with libraries; Logic/Flow Control; Nodeschool - learnyounode
+**5/10 Class 3 Topic:** Logic/Flow Control; Debugging & Error Handling; Modules;
 
-**5/17 Class 4 Topic:** Objects, Arrays, and JSON
+**5/17 Class 4 Topic:** JSON; TBD;
 
 **5/24 Class 5 Topics:** Functional JavaScript
 
