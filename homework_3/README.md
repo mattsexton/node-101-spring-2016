@@ -21,5 +21,5 @@ Example: ```node solution.js 8 \* 6 \* 5```
 
 ### What to turn in
 
-- Submit a Pull Request titled: Homework 2 - [your name]
-- PR should contain one file: ```solution.js```
+- Submit a Pull Request titled: Homework 3 - [your name]
+- PR should contain a new folder with your last name and one file: ```solution.js```
