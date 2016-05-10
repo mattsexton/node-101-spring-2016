@@ -16,11 +16,13 @@ Table of contents
     * [undefined](#undefined)
     * [NaN](#nan)
     * [Equality](#equality)
-    * [Arrays](#arrays)
+    * [Array Types](#array-types)
     * [Type Coercion](#type-coercion)
 * [Variable Operations](#variable-operations)
 * [Function Operations](#function-operations)
 * [Loops](#loops)
+* [Logic](#logic)
+* [Arrays](#arrays)
 * [Command Line Arguments](#command-line-arguments)
 
 ## Data Types
@@ -73,7 +75,7 @@ Not a number. Usually happens when parsing or coercing a value that is not a num
 
 ```===``` checks value and type and is faster because no coercion.
 
-### Arrays
+### Array Types
 
 Arrays are technically Objects with special functionality.
 
@@ -150,6 +152,64 @@ var i = 10;
 while (i > 0) {
   i++;
 }
+```
+
+## Logic
+
+## Arrays
+
+### Bracket Notation
+Retrieve elements from an array by using brackets after the array variable:
+
+```javascript
+var arr = ['a', 'b', 'c'];
+arr[0]; // a
+arr[2]; // c
+```
+
+### .length
+Returns the length of an array.
+
+```javascript
+var arr = ['a', 'b', 'c'];
+console.log(arr.length);
+// 3
+```
+
+### .push()
+Adds an element to the end of the array
+```javascript
+var arr = ['a', 'b', 'c'];
+arr.push('banana');
+console.log(arr); // [a, b, c, banana]
+```
+
+### .pop()
+Returns the last element in an array and removes it from the array
+```javascript
+var arr = ['a', 'b', 'c'];
+var letter = arr.pop();
+
+console.log(letter); // c
+```
+
+### .unshift()
+Adds an element to the front of an array and returns the new length
+```javascript
+var arr = ['a', 'b', 'c'];
+arr.unshift('noodle');
+
+console.log(arr); // [noodle, a, b, c]
+```
+
+### .shift()
+Returns the first element in an array and removes it from the array
+```javascript
+var arr = ['a', 'b', 'c'];
+var letter = arr.shift();
+
+console.log(arr); // [b, c];
+console.log(letter); // a
 ```
 
 ## Command Line Arguments
