@@ -38,17 +38,21 @@ If you have any issues installing or following any of the above instructions, pl
 
 **5/3 Class 2 Topics:** Data Types; Syntax; nodeschool;
 
-**5/10 Class 3 Topic:** Logic/Flow Control; Debugging & Error Handling; Modules;
+**5/18 Class 3 Topic:** Logic/Flow Control; Debugging; Modules;
 
-**5/17 Class 4 Topic:** JSON; TBD;
+**5/25 Class 4 Topic:** JSON; Scope; Error Handling;
 
-**5/24 Class 5 Topics:** Functional JavaScript
+**6/1 Class 5 Topics:** Functional JavaScript
 
-**5/31 Class 6 Topics:** HTTP
+**6/8 Class 6 Topics:** HTTP
 
-**6/7 Class 7 Topic:** Command Line Input
+**6/15 Class 7 Topic:** Command Line Input
 
-**6/14 Class 8 Topics:** Class Project
+**6/22 Class 8 Topics:** Class Project
+
+
+#### Helpful Links
+- Syncing a Fork: https://help.github.com/articles/syncing-a-fork/
 
 
 #### Conclusion
