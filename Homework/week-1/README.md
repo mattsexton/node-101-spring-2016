@@ -6,7 +6,7 @@
 - Make a pull request to the class repository
 
 ### Tasks
-Your Name:  
-Your Favorite Color:  
-Your Favorite Food:
+Your Name:  Dmitri Melnikov
+Your Favorite Color:  white
+Your Favorite Food: beer
 
