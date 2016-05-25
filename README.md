@@ -42,7 +42,7 @@ If you have any issues installing or following any of the above instructions, pl
 
 **5/25 Class 4 Topic:** JSON; Scope; Error Handling;
 
-**6/1 Class 5 Topics:** Functional JavaScript
+**6/1 Class 5 Topics:** Asynchronous Javascript
 
 **6/8 Class 6 Topics:** HTTP
 
