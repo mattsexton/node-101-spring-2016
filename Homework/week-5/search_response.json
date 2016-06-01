@@ -1,0 +1,3586 @@
+{
+  "numberOfRoomsRequested": 1,
+  "filterUnavailableHotelsRequested": false,
+  "totalHotelCount": 275,
+  "availableHotelCount": 233,
+  "searchRegionId": "178307",
+  "searchRegionCity": "Seattle (and vicinity)",
+  "deepLinkUrl": "https://www.expedia.com/Seattle-Hotels.d178307.Travel-Guide-Hotels",
+  "hotelList": [
+    {
+      "sortIndex": "0",
+      "hotelId": "3445681",
+      "name": "The Maxwell Hotel - A Piece of Pineapple Hospitality",
+      "localizedName": "The Maxwell Hotel - A Piece of Pineapple Hospitality",
+      "nonLocalizedName": "The Maxwell Hotel - A Piece of Pineapple Hospitality",
+      "address": "300 Roy St",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98109",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "3.5",
+      "hotelStarRatingCssClassName": "3-5",
+      "hotelGuestRating": "4.7",
+      "totalRecommendations": "2259",
+      "percentRecommended": "97",
+      "totalReviews": "2326",
+      "shortDescription": "Located in Downtown Seattle, this boutique hotel is steps from Pacific Northwest Ballet and Marion Oliver McCaw Hall. Seattle Center and Experience Music Project Museum are also within 10 minutes. ",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "179.00",
+      "lowRateInfo": {
+        "maxNightlyRate": "151.20",
+        "averageRate": "143.20",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "24.35",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "179.00",
+        "nightlyRateTotal": "286.40",
+        "discountPercent": -20,
+        "total": "335.08",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "18.76",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "18.76",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "5.59",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "5.59",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "true",
+            "baseRate": "189.00",
+            "rate": "151.20"
+          },
+          {
+            "promo": "true",
+            "baseRate": "169.00",
+            "rate": "135.20"
+          }
+        ],
+        "priceToShowUsers": "335",
+        "strikethroughPriceToShowUsers": "407",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "407",
+        "totalMandatoryFees": "0.00",
+        "totalPriceWithMandatoryFees": "335.08",
+        "formattedTotalPriceWithMandatoryFees": "$ 335.08",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "201188177",
+        "ratePlanCode": "205616720",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "48",
+      "latitude": "47.62561",
+      "longitude": "-122.351288",
+      "proximityDistanceInMiles": "1.272123765554127",
+      "proximityDistanceInKiloMeters": "2.0468471387765903",
+      "largeThumbnailUrl": "/hotels/4000000/3450000/3445700/3445681/3445681_69_d.jpg",
+      "thumbnailUrl": "/hotels/4000000/3450000/3445700/3445681/3445681_69_n.jpg",
+      "discountMessage": "",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": false,
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": true,
+      "isPaymentChoiceAvailable": false,
+      "isShowEtpChoice": false,
+      "jsonHotelBrand": {
+        "brandId": "3613",
+        "brandName": "Pineapple Hospitality"
+      },
+      "isMemberDeal": false,
+      "shortDiscountMessage": "",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "1",
+      "hotelId": "16950",
+      "name": "Hotel Andra",
+      "localizedName": "Hotel Andra",
+      "nonLocalizedName": "Hotel Andra",
+      "address": "2000 4th Ave",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98121",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "4.0",
+      "hotelStarRatingCssClassName": "4-0",
+      "hotelGuestRating": "4.6",
+      "totalRecommendations": "1044",
+      "percentRecommended": "93",
+      "totalReviews": "1121",
+      "shortDescription": "This family-friendly Seattle hotel is located in a shopping district, within a 10-minute walk of Westlake Center and Pike Place Market. Space Needle and Seattle Great Wheel are also within 15 minutes. ",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "279.00",
+      "lowRateInfo": {
+        "maxNightlyRate": "289.00",
+        "averageRate": "265.55",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "43.43",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "279.00",
+        "nightlyRateTotal": "531.10",
+        "discountPercent": -5,
+        "total": "617.95",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "35.14",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "35.14",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "8.29",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "8.29",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "true",
+            "baseRate": "269.00",
+            "rate": "242.10"
+          },
+          {
+            "promo": "false",
+            "baseRate": "289.00",
+            "rate": "289.00"
+          }
+        ],
+        "priceToShowUsers": "618",
+        "strikethroughPriceToShowUsers": "645",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "645",
+        "totalMandatoryFees": "0.00",
+        "totalPriceWithMandatoryFees": "617.95",
+        "formattedTotalPriceWithMandatoryFees": "$ 617.95",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "254862",
+        "ratePlanCode": "680894",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "2",
+      "latitude": "47.61318",
+      "longitude": "-122.34009",
+      "proximityDistanceInMiles": "0.307945713456611",
+      "proximityDistanceInKiloMeters": "0.4954846529516871",
+      "largeThumbnailUrl": "/hotels/1000000/20000/17000/16950/16950_204_d.jpg",
+      "thumbnailUrl": "/hotels/1000000/20000/17000/16950/16950_204_n.jpg",
+      "discountMessage": "Mobile exclusive: save 10% (on select nights)",
+      "isDiscountRestrictedToCurrentSourceType": true,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": true,
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": false,
+      "isPaymentChoiceAvailable": true,
+      "isShowEtpChoice": true,
+      "jsonHotelBrand": {
+        "brandId": "0",
+        "brandName": "Independent"
+      },
+      "isMemberDeal": false,
+      "shortDiscountMessage": "Save 10%",
+      "isMobileExclusive": true
+    },
+    {
+      "sortIndex": "2",
+      "hotelId": "11969",
+      "name": "Hotel FIVE - A Piece of Pineapple Hospitality",
+      "localizedName": "Hotel FIVE - A Piece of Pineapple Hospitality",
+      "nonLocalizedName": "Hotel FIVE - A Piece of Pineapple Hospitality",
+      "address": "2200 Fifth Avenue",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98121",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "3.5",
+      "hotelStarRatingCssClassName": "3-5",
+      "hotelGuestRating": "4.3",
+      "totalRecommendations": "1820",
+      "percentRecommended": "94",
+      "totalReviews": "1930",
+      "shortDescription": "Featuring a funky, modern style, this Seattle hotel is in the hip Belltown neighborhood,5 blocks from Pacific Place and Westlake Center shops. The Space Needle, Experience Music Project, and Pacific Science Center are within 6 blocks.  ",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "175.00",
+      "lowRateInfo": {
+        "maxNightlyRate": "148.00",
+        "averageRate": "140.00",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "23.84",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "175.00",
+        "nightlyRateTotal": "280.00",
+        "discountPercent": -20,
+        "total": "327.68",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "18.38",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "18.38",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "5.46",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "5.46",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "true",
+            "baseRate": "185.00",
+            "rate": "148.00"
+          },
+          {
+            "promo": "true",
+            "baseRate": "165.00",
+            "rate": "132.00"
+          }
+        ],
+        "priceToShowUsers": "328",
+        "strikethroughPriceToShowUsers": "398",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "398",
+        "totalMandatoryFees": "0.00",
+        "totalPriceWithMandatoryFees": "327.68",
+        "formattedTotalPriceWithMandatoryFees": "$ 327.68",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "201237141",
+        "ratePlanCode": "205886364",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "61",
+      "latitude": "47.61534",
+      "longitude": "-122.34176",
+      "proximityDistanceInMiles": "0.4530228522826351",
+      "proximityDistanceInKiloMeters": "0.7289137693227599",
+      "largeThumbnailUrl": "/hotels/1000000/20000/12000/11969/11969_137_d.jpg",
+      "thumbnailUrl": "/hotels/1000000/20000/12000/11969/11969_137_n.jpg",
+      "discountMessage": "",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": false,
+      "amenities": [
+        {
+          "id": "2048",
+          "description": "Free Wireless Internet"
+        }
+      ],
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": true,
+      "isPaymentChoiceAvailable": false,
+      "isShowEtpChoice": false,
+      "jsonHotelBrand": {
+        "brandId": "3613",
+        "brandName": "Pineapple Hospitality"
+      },
+      "isMemberDeal": false,
+      "shortDiscountMessage": "",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "3",
+      "hotelId": "897598",
+      "name": "Mediterranean Inn",
+      "localizedName": "Mediterranean Inn",
+      "nonLocalizedName": "Mediterranean Inn",
+      "address": "425 Queen Anne Ave N",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98109",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "3.0",
+      "hotelStarRatingCssClassName": "3-0",
+      "hotelGuestRating": "4.2",
+      "totalRecommendations": "8521",
+      "percentRecommended": "92",
+      "totalReviews": "9231",
+      "shortDescription": "Set in the Lower Queen Anne neighborhood, this hotel is 2 blocks from Seattle Center and 1 mile from Pike Place Market and downtown Seattle. Terminal 91 Cruise Facility is 1.5 miles from the hotel.",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "154.00",
+      "lowRateInfo": {
+        "maxNightlyRate": "159.00",
+        "averageRate": "154.00",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "31.18",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "154.00",
+        "nightlyRateTotal": "308.00",
+        "discountPercent": 0,
+        "total": "370.34",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "21.04",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "21.04",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "10.14",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "3.43",
+            "type": "FEE_SERVICE"
+          },
+          {
+            "amount": "6.71",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_SERVICE"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "false",
+            "baseRate": "149.00",
+            "rate": "149.00"
+          },
+          {
+            "promo": "false",
+            "baseRate": "159.00",
+            "rate": "159.00"
+          }
+        ],
+        "priceToShowUsers": "370",
+        "strikethroughPriceToShowUsers": "370",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "370",
+        "totalMandatoryFees": "0.00",
+        "totalPriceWithMandatoryFees": "370.34",
+        "formattedTotalPriceWithMandatoryFees": "$ 370.34",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "15567",
+        "ratePlanCode": "15567",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "5",
+      "latitude": "47.62244",
+      "longitude": "-122.35672",
+      "proximityDistanceInMiles": "1.304924081368965",
+      "proximityDistanceInKiloMeters": "2.099622846922665",
+      "largeThumbnailUrl": "/hotels/1000000/900000/897600/897598/897598_127_d.jpg",
+      "thumbnailUrl": "/hotels/1000000/900000/897600/897598/897598_127_n.jpg",
+      "discountMessage": "",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": true,
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": true,
+      "isPaymentChoiceAvailable": true,
+      "isShowEtpChoice": true,
+      "jsonHotelBrand": {
+        "brandId": "0",
+        "brandName": "Independent"
+      },
+      "isMemberDeal": false,
+      "shortDiscountMessage": "",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "4",
+      "hotelId": "26893",
+      "name": "Mayflower Park Hotel",
+      "localizedName": "Mayflower Park Hotel",
+      "nonLocalizedName": "Mayflower Park Hotel",
+      "address": "405 Olive Way",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98101",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "3.5",
+      "hotelStarRatingCssClassName": "3-5",
+      "hotelGuestRating": "4.6",
+      "totalRecommendations": "2272",
+      "percentRecommended": "97",
+      "totalReviews": "2354",
+      "shortDescription": "Built in 1927, this 12-story hotel is connected by walkway to Westlake Center shops and by monorail to the Space Needle; Pike Place Market and Benaroya Hall are 4 blocks away.",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "170.05",
+      "lowRateInfo": {
+        "maxNightlyRate": "170.57",
+        "averageRate": "161.54",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "27.20",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "170.05",
+        "nightlyRateTotal": "323.09",
+        "discountPercent": -5,
+        "total": "377.49",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "22.16",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "22.16",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "5.04",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "5.04",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "true",
+            "baseRate": "160.55",
+            "rate": "152.52"
+          },
+          {
+            "promo": "true",
+            "baseRate": "179.55",
+            "rate": "170.57"
+          }
+        ],
+        "priceToShowUsers": "377",
+        "strikethroughPriceToShowUsers": "395",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "395",
+        "totalMandatoryFees": "0.00",
+        "totalPriceWithMandatoryFees": "377.49",
+        "formattedTotalPriceWithMandatoryFees": "$ 377.49",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "9955",
+        "ratePlanCode": "204513225",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "67",
+      "latitude": "47.61223",
+      "longitude": "-122.33853",
+      "proximityDistanceInMiles": "0.21639637792085595",
+      "proximityDistanceInKiloMeters": "0.3481817720746572",
+      "largeThumbnailUrl": "/hotels/1000000/30000/26900/26893/26893_97_d.jpg",
+      "thumbnailUrl": "/hotels/1000000/30000/26900/26893/26893_97_n.jpg",
+      "discountMessage": "Private sale: save 5%",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": true,
+      "amenities": [
+        {
+          "id": "2048",
+          "description": "Free Wireless Internet"
+        }
+      ],
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": false,
+      "isPaymentChoiceAvailable": true,
+      "isShowEtpChoice": true,
+      "jsonHotelBrand": {
+        "brandId": "0",
+        "brandName": "Independent"
+      },
+      "isMemberDeal": true,
+      "shortDiscountMessage": "Save 5%",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "5",
+      "hotelId": "20230",
+      "name": "Fairmont Olympic Hotel",
+      "localizedName": "Fairmont Olympic Hotel",
+      "nonLocalizedName": "Fairmont Olympic Hotel",
+      "address": "411 University St",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98101",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "5.0",
+      "hotelStarRatingCssClassName": "5-0",
+      "hotelGuestRating": "4.6",
+      "totalRecommendations": "2115",
+      "percentRecommended": "92",
+      "totalReviews": "2298",
+      "shortDescription": "Built on the original site of the University of Washington, this grand hotel is just a few blocks from the Seattle Art Museum, Pacific Place shops, the Pike Place Market, and the convention center.",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "299.00",
+      "lowRateInfo": {
+        "maxNightlyRate": "239.20",
+        "averageRate": "239.20",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "39.32",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "299.00",
+        "nightlyRateTotal": "478.40",
+        "discountPercent": -20,
+        "total": "557.04",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "31.86",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "31.86",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "7.46",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "7.46",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "true",
+            "baseRate": "299.00",
+            "rate": "239.20"
+          },
+          {
+            "promo": "true",
+            "baseRate": "299.00",
+            "rate": "239.20"
+          }
+        ],
+        "priceToShowUsers": "557",
+        "strikethroughPriceToShowUsers": "677",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "677",
+        "totalMandatoryFees": "0.00",
+        "totalPriceWithMandatoryFees": "557.04",
+        "formattedTotalPriceWithMandatoryFees": "$ 557.04",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "201304596",
+        "ratePlanCode": "206327599",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "10",
+      "latitude": "47.60831",
+      "longitude": "-122.33481",
+      "proximityDistanceInMiles": "0.21001051514125055",
+      "proximityDistanceInKiloMeters": "0.33790691886227214",
+      "largeThumbnailUrl": "/hotels/1000000/30000/20300/20230/20230_161_d.jpg",
+      "thumbnailUrl": "/hotels/1000000/30000/20300/20230/20230_161_n.jpg",
+      "discountMessage": "Book early and save 20%",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": false,
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": false,
+      "isPaymentChoiceAvailable": false,
+      "isShowEtpChoice": false,
+      "jsonHotelBrand": {
+        "brandId": "209",
+        "brandName": "Fairmont"
+      },
+      "isMemberDeal": false,
+      "shortDiscountMessage": "Save 20%",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "6",
+      "hotelId": "13187434",
+      "name": "Thompson Seattle",
+      "localizedName": "Thompson Seattle",
+      "nonLocalizedName": "Thompson Seattle",
+      "address": "110 Stewart St",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98101",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "4.5",
+      "hotelStarRatingCssClassName": "4-5",
+      "hotelGuestRating": "0.0",
+      "totalRecommendations": "0",
+      "percentRecommended": "0",
+      "totalReviews": "0",
+      "shortDescription": "Located in Downtown Seattle, this hotel is steps from Original Starbucks and Pike Place Market. Seattle Great Wheel and Washington State Convention Center are also within 15 minutes. ",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "259.00",
+      "lowRateInfo": {
+        "maxNightlyRate": "155.40",
+        "averageRate": "155.40",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "26.24",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "259.00",
+        "nightlyRateTotal": "310.80",
+        "discountPercent": -40,
+        "total": "363.28",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "21.63",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "21.63",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "4.61",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "4.61",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "true",
+            "baseRate": "259.00",
+            "rate": "155.40"
+          },
+          {
+            "promo": "true",
+            "baseRate": "259.00",
+            "rate": "155.40"
+          }
+        ],
+        "priceToShowUsers": "363",
+        "strikethroughPriceToShowUsers": "570",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "570",
+        "totalMandatoryFees": "4.00",
+        "mandatoryFees": [
+          {
+            "feeName": "Tourism fee",
+            "amount": "4.00"
+          }
+        ],
+        "totalPriceWithMandatoryFees": "363.28",
+        "formattedTotalPriceWithMandatoryFees": "$ 363.28",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "201495737",
+        "ratePlanCode": "207508224",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "30",
+      "latitude": "47.610352",
+      "longitude": "-122.341388",
+      "proximityDistanceInMiles": "0.3463835398924626",
+      "proximityDistanceInKiloMeters": "0.5573311156869724",
+      "largeThumbnailUrl": "/hotels/14000000/13190000/13187500/13187434/13187434_7_d.jpg",
+      "thumbnailUrl": "/hotels/14000000/13190000/13187500/13187434/13187434_7_n.jpg",
+      "discountMessage": "Private sale: save 40%",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": false,
+      "amenities": [
+        {
+          "id": "2048",
+          "description": "Free Wireless Internet"
+        }
+      ],
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": false,
+      "isPaymentChoiceAvailable": false,
+      "isShowEtpChoice": false,
+      "jsonHotelBrand": {
+        "brandId": "2090",
+        "brandName": "Destination Hotels"
+      },
+      "isMemberDeal": true,
+      "shortDiscountMessage": "Save 40%",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "7",
+      "hotelId": "17066",
+      "name": "Best Western Executive Inn",
+      "localizedName": "Best Western Executive Inn",
+      "nonLocalizedName": "Best Western Executive Inn",
+      "address": "200 Taylor Ave N",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98109",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "3.0",
+      "hotelStarRatingCssClassName": "3-0",
+      "hotelGuestRating": "3.9",
+      "totalRecommendations": "1505",
+      "percentRecommended": "85",
+      "totalReviews": "1772",
+      "shortDescription": "Located within 2 blocks of the Seattle Center, the downtown monorail, and the towering Space Needle, this hotel is a mile from Seattle's world-famous Pike Place Market.",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "139.95",
+      "lowRateInfo": {
+        "maxNightlyRate": "125.95",
+        "averageRate": "125.95",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "21.65",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "139.95",
+        "nightlyRateTotal": "251.90",
+        "discountPercent": -10,
+        "total": "295.20",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "18.70",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "18.70",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "2.95",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "2.95",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "true",
+            "baseRate": "139.95",
+            "rate": "125.95"
+          },
+          {
+            "promo": "true",
+            "baseRate": "139.95",
+            "rate": "125.95"
+          }
+        ],
+        "priceToShowUsers": "295",
+        "strikethroughPriceToShowUsers": "323",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "323",
+        "totalMandatoryFees": "4.00",
+        "mandatoryFees": [
+          {
+            "feeName": "Tourism fee",
+            "amount": "4.00"
+          }
+        ],
+        "totalPriceWithMandatoryFees": "295.20",
+        "formattedTotalPriceWithMandatoryFees": "$ 295.20",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "200980731",
+        "ratePlanCode": "204783614",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "8",
+      "latitude": "47.61978",
+      "longitude": "-122.34632",
+      "proximityDistanceInMiles": "0.816808010959427",
+      "proximityDistanceInKiloMeters": "1.314244089633718",
+      "largeThumbnailUrl": "/hotels/1000000/20000/17100/17066/17066_167_d.jpg",
+      "thumbnailUrl": "/hotels/1000000/20000/17100/17066/17066_167_n.jpg",
+      "discountMessage": "Sale!",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": true,
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": false,
+      "isPaymentChoiceAvailable": true,
+      "isShowEtpChoice": true,
+      "jsonHotelBrand": {
+        "brandId": "17",
+        "brandName": "Best Western"
+      },
+      "isMemberDeal": false,
+      "shortDiscountMessage": "Promo",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "8",
+      "hotelId": "58703",
+      "name": "The Paramount Hotel",
+      "localizedName": "The Paramount Hotel",
+      "nonLocalizedName": "The Paramount Hotel",
+      "address": "724 Pine St",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98101",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "3.5",
+      "hotelStarRatingCssClassName": "3-5",
+      "hotelGuestRating": "4.5",
+      "totalRecommendations": "2498",
+      "percentRecommended": "95",
+      "totalReviews": "2639",
+      "shortDescription": "This 11-story hotel is one block from the Paramount Theater, Pacific Place shops, or the Washington State Convention Center, and 3 blocks from Westlake Center.",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "165.00",
+      "lowRateInfo": {
+        "maxNightlyRate": "165.00",
+        "averageRate": "165.00",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "27.74",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "165.00",
+        "nightlyRateTotal": "330.00",
+        "discountPercent": 0,
+        "total": "385.48",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "22.59",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "22.59",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "5.15",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "5.15",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "false",
+            "baseRate": "165.00",
+            "rate": "165.00"
+          },
+          {
+            "promo": "false",
+            "baseRate": "165.00",
+            "rate": "165.00"
+          }
+        ],
+        "priceToShowUsers": "385",
+        "strikethroughPriceToShowUsers": "385",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "385",
+        "totalMandatoryFees": "0.00",
+        "totalPriceWithMandatoryFees": "385.48",
+        "formattedTotalPriceWithMandatoryFees": "$ 385.48",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "328749",
+        "ratePlanCode": "1014635",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "10",
+      "latitude": "47.61275",
+      "longitude": "-122.33402",
+      "proximityDistanceInMiles": "0.09956427582013318",
+      "proximityDistanceInKiloMeters": "0.16019891979459427",
+      "largeThumbnailUrl": "/hotels/1000000/60000/58800/58703/58703_52_d.jpg",
+      "thumbnailUrl": "/hotels/1000000/60000/58800/58703/58703_52_n.jpg",
+      "discountMessage": "",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": true,
+      "amenities": [
+        {
+          "id": "2048",
+          "description": "Free Wireless Internet"
+        }
+      ],
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": true,
+      "isPaymentChoiceAvailable": true,
+      "isShowEtpChoice": true,
+      "jsonHotelBrand": {
+        "brandId": "0",
+        "brandName": "Independent"
+      },
+      "isMemberDeal": false,
+      "shortDiscountMessage": "",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "9",
+      "hotelId": "28647",
+      "name": "Hotel Max, A Provenance Hotel",
+      "localizedName": "Hotel Max, A Provenance Hotel",
+      "nonLocalizedName": "Hotel Max, A Provenance Hotel",
+      "address": "620 Stewart St",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98101",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "3.5",
+      "hotelStarRatingCssClassName": "3-5",
+      "hotelGuestRating": "4.0",
+      "totalRecommendations": "2335",
+      "percentRecommended": "82",
+      "totalReviews": "2832",
+      "shortDescription": "Hotel Max is in downtown Seattle, 6 blocks from Pike Place Market and 1 mile from Capitol Hill. Pacific Place shopping is a block away.",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "159.00",
+      "lowRateInfo": {
+        "maxNightlyRate": "152.10",
+        "averageRate": "143.10",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "24.33",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "159.00",
+        "nightlyRateTotal": "286.20",
+        "discountPercent": -10,
+        "total": "334.85",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "19.86",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "19.86",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "4.47",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "4.47",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "true",
+            "baseRate": "149.00",
+            "rate": "134.10"
+          },
+          {
+            "promo": "true",
+            "baseRate": "169.00",
+            "rate": "152.10"
+          }
+        ],
+        "priceToShowUsers": "335",
+        "strikethroughPriceToShowUsers": "367",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "367",
+        "totalMandatoryFees": "0.00",
+        "totalPriceWithMandatoryFees": "334.85",
+        "formattedTotalPriceWithMandatoryFees": "$ 334.85",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "200870699",
+        "ratePlanCode": "205407831",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "15",
+      "latitude": "47.61381",
+      "longitude": "-122.33686",
+      "proximityDistanceInMiles": "0.21563642160118263",
+      "proximityDistanceInKiloMeters": "0.34695900235630284",
+      "largeThumbnailUrl": "/hotels/1000000/30000/28700/28647/28647_107_d.jpg",
+      "thumbnailUrl": "/hotels/1000000/30000/28700/28647/28647_107_n.jpg",
+      "discountMessage": "Book early and save 10%",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": false,
+      "amenities": [
+        {
+          "id": "2048",
+          "description": "Free Wireless Internet"
+        }
+      ],
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": true,
+      "isPaymentChoiceAvailable": false,
+      "isShowEtpChoice": false,
+      "jsonHotelBrand": {
+        "brandId": "3612",
+        "brandName": "Provenance Hotels"
+      },
+      "isMemberDeal": false,
+      "shortDiscountMessage": "Save 10%",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "10",
+      "hotelId": "1509734",
+      "name": "Pan Pacific Seattle",
+      "localizedName": "Pan Pacific Seattle",
+      "nonLocalizedName": "Pan Pacific Seattle",
+      "address": "2125 Terry Avenue",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98121",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "4.0",
+      "hotelStarRatingCssClassName": "4-0",
+      "hotelGuestRating": "4.6",
+      "totalRecommendations": "1733",
+      "percentRecommended": "94",
+      "totalReviews": "1843",
+      "shortDescription": "This Seattle hotel is situated above a Whole Foods Market on the edge of downtown, 4 blocks from downtown shopping, a half mile from Seattle Center and within a mile of Pike Place Market. The New Chihully Museum of Glass is also within easy reach.",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "225.00",
+      "lowRateInfo": {
+        "maxNightlyRate": "235.00",
+        "averageRate": "225.00",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "37.10",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "225.00",
+        "nightlyRateTotal": "450.00",
+        "discountPercent": 0,
+        "total": "524.20",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "29.03",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "29.03",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "8.07",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "8.07",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "false",
+            "baseRate": "235.00",
+            "rate": "235.00"
+          },
+          {
+            "promo": "false",
+            "baseRate": "215.00",
+            "rate": "215.00"
+          }
+        ],
+        "priceToShowUsers": "524",
+        "strikethroughPriceToShowUsers": "524",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "524",
+        "totalMandatoryFees": "0.00",
+        "totalPriceWithMandatoryFees": "524.20",
+        "formattedTotalPriceWithMandatoryFees": "$ 524.20",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "130329",
+        "ratePlanCode": "301261",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "39",
+      "latitude": "47.61805",
+      "longitude": "-122.33645",
+      "proximityDistanceInMiles": "0.4785653139521368",
+      "proximityDistanceInKiloMeters": "0.7700115901489881",
+      "largeThumbnailUrl": "/hotels/2000000/1510000/1509800/1509734/1509734_205_d.jpg",
+      "thumbnailUrl": "/hotels/2000000/1510000/1509800/1509734/1509734_205_n.jpg",
+      "discountMessage": "",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": true,
+      "amenities": [
+        {
+          "id": "2048",
+          "description": "Free Wireless Internet"
+        }
+      ],
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": false,
+      "isPaymentChoiceAvailable": true,
+      "isShowEtpChoice": true,
+      "jsonHotelBrand": {
+        "brandId": "105",
+        "brandName": "Pan Pacific Hotels & Resorts"
+      },
+      "isMemberDeal": false,
+      "shortDiscountMessage": "",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "11",
+      "hotelId": "50947",
+      "name": "Motif Seattle",
+      "localizedName": "Motif Seattle",
+      "nonLocalizedName": "Motif Seattle",
+      "address": "1415 5th Ave",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98101",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "4.0",
+      "hotelStarRatingCssClassName": "4-0",
+      "hotelGuestRating": "4.2",
+      "totalRecommendations": "4021",
+      "percentRecommended": "90",
+      "totalReviews": "4469",
+      "shortDescription": "Located in Downtown Seattle, this hotel is within a 10-minute walk of 5th Avenue Theater, Pike Place Market, and Washington State Convention Center. Columbia Center and Seattle Great Wheel are also within 10 minutes. ",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "209.00",
+      "lowRateInfo": {
+        "maxNightlyRate": "209.00",
+        "averageRate": "209.00",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "34.60",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "209.00",
+        "nightlyRateTotal": "418.00",
+        "discountPercent": 0,
+        "total": "487.20",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "28.41",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "28.41",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "6.19",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "6.19",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "false",
+            "baseRate": "209.00",
+            "rate": "209.00"
+          },
+          {
+            "promo": "false",
+            "baseRate": "209.00",
+            "rate": "209.00"
+          }
+        ],
+        "priceToShowUsers": "487",
+        "strikethroughPriceToShowUsers": "487",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "487",
+        "totalMandatoryFees": "25.90",
+        "mandatoryFees": [
+          {
+            "feeName": "Resort fee",
+            "amount": "25.90"
+          }
+        ],
+        "totalPriceWithMandatoryFees": "487.20",
+        "formattedTotalPriceWithMandatoryFees": "$ 487.20",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "200561965",
+        "ratePlanCode": "202878943",
+        "showResortFeeMessage": true,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "32",
+      "latitude": "47.60985",
+      "longitude": "-122.33475",
+      "proximityDistanceInMiles": "0.10547435887235633",
+      "proximityDistanceInKiloMeters": "0.16970824342562132",
+      "largeThumbnailUrl": "/hotels/1000000/60000/51000/50947/50947_264_d.jpg",
+      "thumbnailUrl": "/hotels/1000000/60000/51000/50947/50947_264_n.jpg",
+      "discountMessage": "",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": true,
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": true,
+      "isPaymentChoiceAvailable": true,
+      "isShowEtpChoice": true,
+      "jsonHotelBrand": {
+        "brandId": "2090",
+        "brandName": "Destination Hotels"
+      },
+      "isMemberDeal": false,
+      "shortDiscountMessage": "",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "12",
+      "hotelId": "16934",
+      "name": "The Loyal Inn",
+      "localizedName": "The Loyal Inn",
+      "nonLocalizedName": "The Loyal Inn",
+      "address": "2301 8th Ave",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98121",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "2.0",
+      "hotelStarRatingCssClassName": "2-0",
+      "hotelGuestRating": "3.7",
+      "totalRecommendations": "1071",
+      "percentRecommended": "85",
+      "totalReviews": "1263",
+      "shortDescription": "This Seattle hotel is less than a half-mile from Pike Place Market, the Space Needle, and the Key Arena.",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "134.00",
+      "lowRateInfo": {
+        "maxNightlyRate": "134.00",
+        "averageRate": "127.30",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "21.86",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "134.00",
+        "nightlyRateTotal": "254.60",
+        "discountPercent": -5,
+        "total": "298.32",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "17.49",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "17.49",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "4.37",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "4.37",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "true",
+            "baseRate": "134.00",
+            "rate": "120.60"
+          },
+          {
+            "promo": "false",
+            "baseRate": "134.00",
+            "rate": "134.00"
+          }
+        ],
+        "priceToShowUsers": "298",
+        "strikethroughPriceToShowUsers": "312",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "312",
+        "totalMandatoryFees": "4.00",
+        "mandatoryFees": [
+          {
+            "feeName": "Tourism fee",
+            "amount": "4.00"
+          }
+        ],
+        "totalPriceWithMandatoryFees": "298.32",
+        "formattedTotalPriceWithMandatoryFees": "$ 298.32",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "201377488",
+        "ratePlanCode": "206797104",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "20",
+      "latitude": "47.61807",
+      "longitude": "-122.34055",
+      "proximityDistanceInMiles": "0.5556884064388573",
+      "proximityDistanceInKiloMeters": "0.8941026459601213",
+      "largeThumbnailUrl": "/hotels/1000000/20000/17000/16934/16934_121_d.jpg",
+      "thumbnailUrl": "/hotels/1000000/20000/17000/16934/16934_121_n.jpg",
+      "discountMessage": "Special deal: save 10%",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": true,
+      "amenities": [
+        {
+          "id": "1073742786",
+          "description": "Free Breakfast"
+        },
+        {
+          "id": "2048",
+          "description": "Free Wireless Internet"
+        }
+      ],
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": false,
+      "isPaymentChoiceAvailable": true,
+      "isShowEtpChoice": true,
+      "jsonHotelBrand": {
+        "brandId": "0",
+        "brandName": "Independent"
+      },
+      "isMemberDeal": false,
+      "shortDiscountMessage": "Save 10%",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "13",
+      "hotelId": "28274",
+      "name": "The Roosevelt, A Provenance Hotel",
+      "localizedName": "The Roosevelt, A Provenance Hotel",
+      "nonLocalizedName": "The Roosevelt, A Provenance Hotel",
+      "address": "1531 7th Ave",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98101",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "3.5",
+      "hotelStarRatingCssClassName": "3-5",
+      "hotelGuestRating": "4.2",
+      "totalRecommendations": "1589",
+      "percentRecommended": "90",
+      "totalReviews": "1763",
+      "shortDescription": "<p>Built in 1929, this 20-story Seattle hotel is across from Pacific Place shopping, one block from the Washington State Convention & Trade Center, less than 1 mile (1.6 kilometers)from Seattle Ferry Terminal, and two blocks from the Paramount Theater.</p>",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "204.00",
+      "lowRateInfo": {
+        "maxNightlyRate": "188.10",
+        "averageRate": "183.60",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "30.64",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "204.00",
+        "nightlyRateTotal": "367.20",
+        "discountPercent": -10,
+        "total": "428.48",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "24.91",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "24.91",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "5.73",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "5.73",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "true",
+            "baseRate": "199.00",
+            "rate": "179.10"
+          },
+          {
+            "promo": "true",
+            "baseRate": "209.00",
+            "rate": "188.10"
+          }
+        ],
+        "priceToShowUsers": "428",
+        "strikethroughPriceToShowUsers": "469",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "469",
+        "totalMandatoryFees": "0.00",
+        "totalPriceWithMandatoryFees": "428.48",
+        "formattedTotalPriceWithMandatoryFees": "$ 428.48",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "201169872",
+        "ratePlanCode": "205547547",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "55",
+      "latitude": "47.61165",
+      "longitude": "-122.33339",
+      "proximityDistanceInMiles": "0.040193611555844916",
+      "proximityDistanceInKiloMeters": "0.06467152099335446",
+      "largeThumbnailUrl": "/hotels/1000000/30000/28300/28274/28274_40_d.jpg",
+      "thumbnailUrl": "/hotels/1000000/30000/28300/28274/28274_40_n.jpg",
+      "discountMessage": "Book early and save 10%",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": false,
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": true,
+      "isPaymentChoiceAvailable": false,
+      "isShowEtpChoice": false,
+      "jsonHotelBrand": {
+        "brandId": "3612",
+        "brandName": "Provenance Hotels"
+      },
+      "isMemberDeal": false,
+      "shortDiscountMessage": "Save 10%",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "14",
+      "hotelId": "546475",
+      "name": "Grand Hyatt Seattle",
+      "localizedName": "Grand Hyatt Seattle",
+      "nonLocalizedName": "Grand Hyatt Seattle",
+      "address": "721 Pine St",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98101",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "4.0",
+      "hotelStarRatingCssClassName": "4-0",
+      "hotelGuestRating": "4.6",
+      "totalRecommendations": "1930",
+      "percentRecommended": "95",
+      "totalReviews": "2029",
+      "shortDescription": "This 30-story downtown Seattle hotel is two blocks from the upscale Pacific Place Mall and within seven blocks of cultural attractions. The hotel is adjacent to the Washington State Convention Center.",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "249.00",
+      "lowRateInfo": {
+        "maxNightlyRate": "249.00",
+        "averageRate": "249.00",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "40.84",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "249.00",
+        "nightlyRateTotal": "498.00",
+        "discountPercent": 0,
+        "total": "579.68",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "34.24",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "34.24",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "6.60",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "6.60",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "false",
+            "baseRate": "249.00",
+            "rate": "249.00"
+          },
+          {
+            "promo": "false",
+            "baseRate": "249.00",
+            "rate": "249.00"
+          }
+        ],
+        "priceToShowUsers": "580",
+        "strikethroughPriceToShowUsers": "580",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "580",
+        "totalMandatoryFees": "4.00",
+        "mandatoryFees": [
+          {
+            "feeName": "Destination fee",
+            "amount": "4.00"
+          }
+        ],
+        "totalPriceWithMandatoryFees": "579.68",
+        "formattedTotalPriceWithMandatoryFees": "$ 579.68",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "201301180",
+        "ratePlanCode": "206301391",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "5",
+      "latitude": "47.61271",
+      "longitude": "-122.33407",
+      "proximityDistanceInMiles": "0.09675116280757395",
+      "proximityDistanceInKiloMeters": "0.1556726209573865",
+      "largeThumbnailUrl": "/hotels/1000000/550000/546500/546475/546475_112_d.jpg",
+      "thumbnailUrl": "/hotels/1000000/550000/546500/546475/546475_112_n.jpg",
+      "discountMessage": "",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": true,
+      "amenities": [
+        {
+          "id": "2048",
+          "description": "Free Wireless Internet"
+        }
+      ],
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": false,
+      "isPaymentChoiceAvailable": true,
+      "isShowEtpChoice": true,
+      "jsonHotelBrand": {
+        "brandId": "65",
+        "brandName": "Hyatt Hotels"
+      },
+      "isMemberDeal": false,
+      "shortDiscountMessage": "",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "15",
+      "hotelId": "9844402",
+      "name": "Hyatt House Seattle/Downtown",
+      "localizedName": "Hyatt House Seattle/Downtown",
+      "nonLocalizedName": "Hyatt House Seattle/Downtown",
+      "address": "201 Fifth Avenue North",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98109",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "3.0",
+      "hotelStarRatingCssClassName": "3-0",
+      "hotelGuestRating": "4.5",
+      "totalRecommendations": "330",
+      "percentRecommended": "95",
+      "totalReviews": "346",
+      "shortDescription": "Located in Downtown Seattle, this hotel is steps from Science Fiction Museum and Hall of Fame, Space Needle, and Experience Music Project Museum. Seattle Center and Marion Oliver McCaw Hall are also within 10 minutes. ",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "141.55",
+      "lowRateInfo": {
+        "maxNightlyRate": "141.55",
+        "averageRate": "141.55",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "24.08",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "141.55",
+        "nightlyRateTotal": "283.10",
+        "discountPercent": 0,
+        "total": "331.26",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "20.11",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "20.11",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "3.97",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "3.97",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "false",
+            "baseRate": "141.55",
+            "rate": "141.55"
+          },
+          {
+            "promo": "false",
+            "baseRate": "141.55",
+            "rate": "141.55"
+          }
+        ],
+        "priceToShowUsers": "331",
+        "strikethroughPriceToShowUsers": "331",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "331",
+        "totalMandatoryFees": "0.00",
+        "totalPriceWithMandatoryFees": "331.26",
+        "formattedTotalPriceWithMandatoryFees": "$ 331.26",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "201335220",
+        "ratePlanCode": "206850421",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "18",
+      "latitude": "47.620185",
+      "longitude": "-122.347637",
+      "proximityDistanceInMiles": "0.8799930203141946",
+      "proximityDistanceInKiloMeters": "1.415908769685539",
+      "largeThumbnailUrl": "/hotels/10000000/9850000/9844500/9844402/9844402_60_d.jpg",
+      "thumbnailUrl": "/hotels/10000000/9850000/9844500/9844402/9844402_60_n.jpg",
+      "discountMessage": "",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": false,
+      "amenities": [
+        {
+          "id": "2048",
+          "description": "Free Wireless Internet"
+        },
+        {
+          "id": "16777216",
+          "description": "Breakfast Buffet"
+        }
+      ],
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": false,
+      "isPaymentChoiceAvailable": false,
+      "isShowEtpChoice": false,
+      "jsonHotelBrand": {
+        "brandId": "2720",
+        "brandName": "HYATT house"
+      },
+      "isMemberDeal": false,
+      "shortDiscountMessage": "",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "16",
+      "hotelId": "201051",
+      "name": "MarQueen Hotel",
+      "localizedName": "MarQueen Hotel",
+      "nonLocalizedName": "MarQueen Hotel",
+      "address": "600 Queen Anne Ave N",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98109",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "3.5",
+      "hotelStarRatingCssClassName": "3-5",
+      "hotelGuestRating": "4.2",
+      "totalRecommendations": "1771",
+      "percentRecommended": "88",
+      "totalReviews": "2021",
+      "shortDescription": "Occupying a handsomely restored 1918 building, this boutique hotel is nestled among restaurants, theaters, and shops in the vibrant Queen Anne neighborhood, 2 blocks from the Seattle Center.    ",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "179.50",
+      "lowRateInfo": {
+        "maxNightlyRate": "161.50",
+        "averageRate": "152.57",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "14.65",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "179.50",
+        "nightlyRateTotal": "305.15",
+        "discountPercent": -15,
+        "total": "334.44",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "11.72",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "11.72",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "2.93",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "2.93",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "true",
+            "baseRate": "190.00",
+            "rate": "161.50"
+          },
+          {
+            "promo": "true",
+            "baseRate": "169.00",
+            "rate": "143.65"
+          }
+        ],
+        "priceToShowUsers": "334",
+        "strikethroughPriceToShowUsers": "388",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "388",
+        "totalMandatoryFees": "0.00",
+        "totalPriceWithMandatoryFees": "334.44",
+        "formattedTotalPriceWithMandatoryFees": "$ 334.44",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "201188163",
+        "ratePlanCode": "205617245",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "28",
+      "latitude": "47.62468",
+      "longitude": "-122.35673",
+      "proximityDistanceInMiles": "1.402083909993592",
+      "proximityDistanceInKiloMeters": "2.2559530111796895",
+      "largeThumbnailUrl": "/hotels/1000000/210000/201100/201051/201051_119_d.jpg",
+      "thumbnailUrl": "/hotels/1000000/210000/201100/201051/201051_119_n.jpg",
+      "discountMessage": "Private sale: save 15%",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": true,
+      "amenities": [
+        {
+          "id": "2048",
+          "description": "Free Wireless Internet"
+        },
+        {
+          "id": "4096",
+          "description": "Continental Breakfast for 2"
+        }
+      ],
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": true,
+      "isPaymentChoiceAvailable": true,
+      "isShowEtpChoice": true,
+      "jsonHotelBrand": {
+        "brandId": "0",
+        "brandName": "Independent"
+      },
+      "isMemberDeal": true,
+      "shortDiscountMessage": "Save 15%",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "17",
+      "hotelId": "2163007",
+      "name": "Four Seasons Hotel Seattle",
+      "localizedName": "Four Seasons Hotel Seattle",
+      "nonLocalizedName": "Four Seasons Hotel Seattle",
+      "address": "99 Union St",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98101",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "5.0",
+      "hotelStarRatingCssClassName": "5-0",
+      "hotelGuestRating": "4.8",
+      "totalRecommendations": "308",
+      "percentRecommended": "96",
+      "totalReviews": "322",
+      "shortDescription": "Offering modern luxury in an ideal downtown setting, Four Seasons Hotel Seattle is across from the Seattle Art Museum, 1 block from the Pike Place Market, and a five-minute walk from the waterfront.",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "519.00",
+      "lowRateInfo": {
+        "maxNightlyRate": "519.00",
+        "averageRate": "519.00",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "82.96",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "519.00",
+        "nightlyRateTotal": "1038.00",
+        "discountPercent": 0,
+        "total": "1203.92",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "66.77",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "66.77",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "16.19",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "16.19",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "false",
+            "baseRate": "519.00",
+            "rate": "519.00"
+          },
+          {
+            "promo": "false",
+            "baseRate": "519.00",
+            "rate": "519.00"
+          }
+        ],
+        "priceToShowUsers": "1204",
+        "strikethroughPriceToShowUsers": "1204",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "1204",
+        "totalMandatoryFees": "0.00",
+        "totalPriceWithMandatoryFees": "1203.92",
+        "formattedTotalPriceWithMandatoryFees": "$ 1,203.92",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "200162064",
+        "ratePlanCode": "206486611",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "1",
+      "latitude": "47.60772",
+      "longitude": "-122.33936",
+      "proximityDistanceInMiles": "0.34903992773301534",
+      "proximityDistanceInKiloMeters": "0.5616052437224217",
+      "largeThumbnailUrl": "/hotels/3000000/2170000/2163100/2163007/2163007_15_d.jpg",
+      "thumbnailUrl": "/hotels/3000000/2170000/2163100/2163007/2163007_15_n.jpg",
+      "discountMessage": "",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": true,
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": false,
+      "isPaymentChoiceAvailable": false,
+      "isShowEtpChoice": false,
+      "jsonHotelBrand": {
+        "brandId": "2130",
+        "brandName": "Four Seasons"
+      },
+      "isMemberDeal": false,
+      "shortDiscountMessage": "",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "18",
+      "hotelId": "36514",
+      "name": "Inn at the Market",
+      "localizedName": "Inn at the Market",
+      "nonLocalizedName": "Inn at the Market",
+      "address": "86 Pine St",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98101",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "4.0",
+      "hotelStarRatingCssClassName": "4-0",
+      "hotelGuestRating": "4.7",
+      "totalRecommendations": "678",
+      "percentRecommended": "97",
+      "totalReviews": "698",
+      "shortDescription": "Located within downtown Seattle's historic Pike Place Market and surrounded by shops and cafés, Inn at the Market sits on a cobblestone street overlooking picturesque Elliott Bay and Puget Sound.  ",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "270.00",
+      "lowRateInfo": {
+        "maxNightlyRate": "315.00",
+        "averageRate": "270.00",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "44.13",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "270.00",
+        "nightlyRateTotal": "540.00",
+        "discountPercent": 0,
+        "total": "628.25",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "33.59",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "33.59",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "10.54",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "10.54",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "false",
+            "baseRate": "225.00",
+            "rate": "225.00"
+          },
+          {
+            "promo": "false",
+            "baseRate": "315.00",
+            "rate": "315.00"
+          }
+        ],
+        "priceToShowUsers": "628",
+        "strikethroughPriceToShowUsers": "628",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "628",
+        "totalMandatoryFees": "0.00",
+        "totalPriceWithMandatoryFees": "628.25",
+        "formattedTotalPriceWithMandatoryFees": "$ 628.25",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "95991",
+        "ratePlanCode": "217798",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "2",
+      "latitude": "47.60959",
+      "longitude": "-122.34157",
+      "proximityDistanceInMiles": "0.36819274612291203",
+      "proximityDistanceInKiloMeters": "0.5924221285117655",
+      "largeThumbnailUrl": "/hotels/1000000/40000/36600/36514/36514_95_d.jpg",
+      "thumbnailUrl": "/hotels/1000000/40000/36600/36514/36514_95_n.jpg",
+      "discountMessage": "",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": true,
+      "amenities": [
+        {
+          "id": "2048",
+          "description": "Free Wireless Internet"
+        }
+      ],
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": false,
+      "isPaymentChoiceAvailable": true,
+      "isShowEtpChoice": true,
+      "jsonHotelBrand": {
+        "brandId": "0",
+        "brandName": "Independent"
+      },
+      "isMemberDeal": false,
+      "shortDiscountMessage": "",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "19",
+      "hotelId": "11133",
+      "name": "The Edgewater - A Noble House Hotel",
+      "localizedName": "The Edgewater - A Noble House Hotel",
+      "nonLocalizedName": "The Edgewater - A Noble House Hotel",
+      "address": "Pier 67, 2411 Alaskan Way",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98121",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "4.0",
+      "hotelStarRatingCssClassName": "4-0",
+      "hotelGuestRating": "4.3",
+      "totalRecommendations": "2281",
+      "percentRecommended": "89",
+      "totalReviews": "2570",
+      "shortDescription": "Extending over Elliott Bay from Pier 67, this 1962 landmark is adjacent to the Bell Harbor Conference Center and less than a mile from the Pike Place Market and the Space Needle. ",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "289.00",
+      "lowRateInfo": {
+        "maxNightlyRate": "289.00",
+        "averageRate": "289.00",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "62.43",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "289.00",
+        "nightlyRateTotal": "578.00",
+        "discountPercent": 0,
+        "total": "702.86",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "38.07",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "38.07",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "24.36",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "15.34",
+            "type": "FEE_SERVICE"
+          },
+          {
+            "amount": "9.02",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_SERVICE"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "false",
+            "baseRate": "289.00",
+            "rate": "289.00"
+          },
+          {
+            "promo": "false",
+            "baseRate": "289.00",
+            "rate": "289.00"
+          }
+        ],
+        "priceToShowUsers": "703",
+        "strikethroughPriceToShowUsers": "703",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "703",
+        "totalMandatoryFees": "0.00",
+        "totalPriceWithMandatoryFees": "702.86",
+        "formattedTotalPriceWithMandatoryFees": "$ 702.86",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "200148819",
+        "ratePlanCode": "204198040",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "33",
+      "latitude": "47.61252",
+      "longitude": "-122.35013",
+      "proximityDistanceInMiles": "0.7519176118641427",
+      "proximityDistanceInKiloMeters": "1.2098354374894056",
+      "largeThumbnailUrl": "/hotels/1000000/20000/11200/11133/11133_147_d.jpg",
+      "thumbnailUrl": "/hotels/1000000/20000/11200/11133/11133_147_n.jpg",
+      "discountMessage": "",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": true,
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": false,
+      "isPaymentChoiceAvailable": true,
+      "isShowEtpChoice": true,
+      "jsonHotelBrand": {
+        "brandId": "2095",
+        "brandName": "Noble House"
+      },
+      "isMemberDeal": false,
+      "shortDiscountMessage": "",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "20",
+      "hotelId": "13140",
+      "name": "Travelodge By The Space Needle",
+      "localizedName": "Travelodge By The Space Needle",
+      "nonLocalizedName": "Travelodge By The Space Needle",
+      "address": "200 6th Ave N",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98109",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "2.0",
+      "hotelStarRatingCssClassName": "2-0",
+      "hotelGuestRating": "3.5",
+      "totalRecommendations": "1010",
+      "percentRecommended": "78",
+      "totalReviews": "1299",
+      "shortDescription": "This smoke-free Seattle hotel is located 2 blocks from the Space Needle, Experience Music Project, and Seattle Center.",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "93.46",
+      "lowRateInfo": {
+        "maxNightlyRate": "70.09",
+        "averageRate": "70.09",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "12.93",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "93.46",
+        "nightlyRateTotal": "140.18",
+        "discountPercent": -25,
+        "total": "166.04",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "11.07",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "11.07",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "1.86",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "1.86",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "true",
+            "baseRate": "93.46",
+            "rate": "70.09"
+          },
+          {
+            "promo": "true",
+            "baseRate": "93.46",
+            "rate": "70.09"
+          }
+        ],
+        "priceToShowUsers": "166",
+        "strikethroughPriceToShowUsers": "213",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "213",
+        "totalMandatoryFees": "0.00",
+        "totalPriceWithMandatoryFees": "166.04",
+        "formattedTotalPriceWithMandatoryFees": "$ 166.04",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "135918",
+        "ratePlanCode": "1069094",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "-1",
+      "latitude": "47.61976",
+      "longitude": "-122.34503",
+      "proximityDistanceInMiles": "0.7750474157758973",
+      "proximityDistanceInKiloMeters": "1.2470512919834187",
+      "largeThumbnailUrl": "/hotels/1000000/20000/13200/13140/13140_183_d.jpg",
+      "thumbnailUrl": "/hotels/1000000/20000/13200/13140/13140_183_n.jpg",
+      "discountMessage": "Private sale: save 25%",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": false,
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": false,
+      "isPaymentChoiceAvailable": false,
+      "isShowEtpChoice": false,
+      "jsonHotelBrand": {
+        "brandId": "143",
+        "brandName": "Travelodge"
+      },
+      "isMemberDeal": true,
+      "shortDiscountMessage": "Save 25%",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "21",
+      "hotelId": "889335",
+      "name": "Watertown Hotel - A Piece of Pineapple Hospitality",
+      "localizedName": "Watertown Hotel - A Piece of Pineapple Hospitality",
+      "nonLocalizedName": "Watertown Hotel - A Piece of Pineapple Hospitality",
+      "address": "4242 Roosevelt Way NE",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98105",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "3.5",
+      "hotelStarRatingCssClassName": "3-5",
+      "hotelGuestRating": "4.6",
+      "totalRecommendations": "1306",
+      "percentRecommended": "96",
+      "totalReviews": "1356",
+      "shortDescription": "This hotel is 4 blocks from the University of Washington and 4 miles from downtown Seattle; Gasworks Park, University Village shopping, and UW Husky Stadium are 1 mile away.",
+      "locationDescription": "University District",
+      "locationId": "6054612",
+      "lowRate": "149.00",
+      "lowRateInfo": {
+        "maxNightlyRate": "119.20",
+        "averageRate": "119.20",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "18.60",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "149.00",
+        "nightlyRateTotal": "238.40",
+        "discountPercent": -20,
+        "total": "275.60",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "13.95",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "13.95",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "4.65",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "4.65",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "true",
+            "baseRate": "149.00",
+            "rate": "119.20"
+          },
+          {
+            "promo": "true",
+            "baseRate": "149.00",
+            "rate": "119.20"
+          }
+        ],
+        "priceToShowUsers": "276",
+        "strikethroughPriceToShowUsers": "335",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "335",
+        "totalMandatoryFees": "0.00",
+        "totalPriceWithMandatoryFees": "275.60",
+        "formattedTotalPriceWithMandatoryFees": "$ 275.60",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "201188184",
+        "ratePlanCode": "205616740",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "14",
+      "latitude": "47.65949",
+      "longitude": "-122.31781",
+      "proximityDistanceInMiles": "3.4146834119185607",
+      "proximityDistanceInKiloMeters": "5.494225609776964",
+      "largeThumbnailUrl": "/hotels/1000000/890000/889400/889335/889335_68_d.jpg",
+      "thumbnailUrl": "/hotels/1000000/890000/889400/889335/889335_68_n.jpg",
+      "discountMessage": "Book early and save 20%",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": false,
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": false,
+      "isPaymentChoiceAvailable": false,
+      "isShowEtpChoice": false,
+      "jsonHotelBrand": {
+        "brandId": "3613",
+        "brandName": "Pineapple Hospitality"
+      },
+      "isMemberDeal": false,
+      "shortDiscountMessage": "Save 20%",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "22",
+      "hotelId": "9490029",
+      "name": "Palladian, a Kimpton Hotel",
+      "localizedName": "Palladian, a Kimpton Hotel",
+      "nonLocalizedName": "Palladian, a Kimpton Hotel",
+      "address": "2000 Second Avenue",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98121",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "4.0",
+      "hotelStarRatingCssClassName": "4-0",
+      "hotelGuestRating": "4.5",
+      "totalRecommendations": "145",
+      "percentRecommended": "94",
+      "totalReviews": "155",
+      "shortDescription": "Located in Downtown Seattle, this eco-friendly hotel is within a 5-minute walk of Original Starbucks and Pike Place Market. Space Needle and Seattle Great Wheel are also within 1 mi (2 km). ",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "195.00",
+      "lowRateInfo": {
+        "maxNightlyRate": "195.00",
+        "averageRate": "195.00",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "32.42",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "195.00",
+        "nightlyRateTotal": "390.00",
+        "discountPercent": 0,
+        "total": "454.84",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "26.64",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "26.64",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "5.78",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "5.78",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "false",
+            "baseRate": "195.00",
+            "rate": "195.00"
+          },
+          {
+            "promo": "false",
+            "baseRate": "195.00",
+            "rate": "195.00"
+          }
+        ],
+        "priceToShowUsers": "455",
+        "strikethroughPriceToShowUsers": "455",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "455",
+        "totalMandatoryFees": "0.00",
+        "totalPriceWithMandatoryFees": "454.84",
+        "formattedTotalPriceWithMandatoryFees": "$ 454.84",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "200871142",
+        "ratePlanCode": "204421879",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "29",
+      "latitude": "47.611895",
+      "longitude": "-122.341921",
+      "proximityDistanceInMiles": "0.36705717710200486",
+      "proximityDistanceInKiloMeters": "0.5905949979571258",
+      "largeThumbnailUrl": "/hotels/10000000/9500000/9490100/9490029/9490029_27_d.jpg",
+      "thumbnailUrl": "/hotels/10000000/9500000/9490100/9490029/9490029_27_n.jpg",
+      "discountMessage": "",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": true,
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": false,
+      "isPaymentChoiceAvailable": false,
+      "isShowEtpChoice": false,
+      "jsonHotelBrand": {
+        "brandId": "225",
+        "brandName": "Kimpton Hotels"
+      },
+      "isMemberDeal": false,
+      "shortDiscountMessage": "",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "23",
+      "hotelId": "6227",
+      "name": "Alexis Hotel, a Kimpton Hotel",
+      "localizedName": "Alexis Hotel, a Kimpton Hotel",
+      "nonLocalizedName": "Alexis Hotel, a Kimpton Hotel",
+      "address": "1007 1st Ave",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98104",
+      "airportCode": "SEA",
+      "supplierType": "MERCHANT",
+      "hotelStarRating": "4.0",
+      "hotelStarRatingCssClassName": "4-0",
+      "hotelGuestRating": "4.5",
+      "totalRecommendations": "792",
+      "percentRecommended": "92",
+      "totalReviews": "863",
+      "shortDescription": "This downtown Seattle charmer is in a historic building 1 block east of the waterfront and ferry terminal, and 4 blocks from Pike Place Market and Pioneer Square.",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "202.12",
+      "lowRateInfo": {
+        "maxNightlyRate": "202.12",
+        "averageRate": "202.12",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "33.53",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "202.12",
+        "nightlyRateTotal": "404.24",
+        "discountPercent": 0,
+        "total": "471.30",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "27.54",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "27.54",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "5.99",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "5.99",
+            "type": "FEE_MISC"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "FEE_MISC"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "false",
+            "baseRate": "202.12",
+            "rate": "202.12"
+          },
+          {
+            "promo": "false",
+            "baseRate": "202.12",
+            "rate": "202.12"
+          }
+        ],
+        "priceToShowUsers": "471",
+        "strikethroughPriceToShowUsers": "471",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "471",
+        "totalMandatoryFees": "30.00",
+        "mandatoryFees": [
+          {
+            "feeName": "Resort fee",
+            "amount": "30.00"
+          }
+        ],
+        "totalPriceWithMandatoryFees": "471.30",
+        "formattedTotalPriceWithMandatoryFees": "$ 471.30",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "492454",
+        "ratePlanCode": "205407276",
+        "showResortFeeMessage": true,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "16",
+      "latitude": "47.60477",
+      "longitude": "-122.33632",
+      "proximityDistanceInMiles": "0.46373369974136697",
+      "proximityDistanceInKiloMeters": "0.7461475228838594",
+      "largeThumbnailUrl": "/hotels/1000000/10000/6300/6227/6227_194_d.jpg",
+      "thumbnailUrl": "/hotels/1000000/10000/6300/6227/6227_194_n.jpg",
+      "discountMessage": "Book now and save!",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": true,
+      "amenities": [
+        {
+          "id": "2048",
+          "description": "Free Wireless Internet"
+        }
+      ],
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": false,
+      "isPaymentChoiceAvailable": false,
+      "isShowEtpChoice": false,
+      "jsonHotelBrand": {
+        "brandId": "225",
+        "brandName": "Kimpton Hotels"
+      },
+      "isMemberDeal": false,
+      "shortDiscountMessage": "Promo",
+      "isMobileExclusive": false
+    },
+    {
+      "sortIndex": "24",
+      "hotelId": "6839",
+      "name": "Warwick Seattle Hotel",
+      "localizedName": "Warwick Seattle Hotel",
+      "nonLocalizedName": "Warwick Seattle Hotel",
+      "address": "401 Lenora St",
+      "city": "Seattle",
+      "stateProvinceCode": "WA",
+      "countryCode": "USA",
+      "postalCode": "98121",
+      "airportCode": "SEA",
+      "supplierType": "DIRECT_AGENCY",
+      "hotelStarRating": "3.5",
+      "hotelStarRatingCssClassName": "3-5",
+      "hotelGuestRating": "4.0",
+      "totalRecommendations": "2228",
+      "percentRecommended": "83",
+      "totalReviews": "2681",
+      "shortDescription": "The 19-story hotel is located in downtown Seattle's hip Belltown neighborhood, 2 blocks from the Monorail and 5 blocks from the Seattle waterfront and Pike Place Market.",
+      "locationDescription": "Downtown Seattle",
+      "locationId": "800130",
+      "lowRate": "168.30",
+      "lowRateInfo": {
+        "maxNightlyRate": "168.30",
+        "averageRate": "168.30",
+        "taxStatusType": "ESTIMATED",
+        "surchargeTotal": "28.25",
+        "surchargeTotalForEntireStay": "0.00",
+        "averageBaseRate": "168.30",
+        "nightlyRateTotal": "336.60",
+        "discountPercent": 0,
+        "total": "393.10",
+        "currencyCode": "USD",
+        "currencySymbol": "$",
+        "surcharges": [
+          {
+            "amount": "28.25",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "28.25",
+            "type": "TAX_OTHER"
+          }
+        ],
+        "surchargesForEntireStay": [
+          {
+            "amount": "0.00",
+            "type": "TAX_ALL"
+          },
+          {
+            "amount": "0.00",
+            "type": "TAX_OTHER"
+          }
+        ],
+        "nightlyRatesPerRoom": [
+          {
+            "promo": "false",
+            "baseRate": "168.30",
+            "rate": "168.30"
+          },
+          {
+            "promo": "false",
+            "baseRate": "168.30",
+            "rate": "168.30"
+          }
+        ],
+        "priceToShowUsers": "393",
+        "depositAmountToShowUsers": "393",
+        "priceRemainingAfterDepositToShowUsers": "0",
+        "depositAmountExact": "$ 393.10",
+        "depositAmount": "393.10",
+        "priceRemainingAfterDepositExact": "$ 0.00",
+        "priceRemainingAfterDeposit": "0.00",
+        "strikethroughPriceToShowUsers": "393",
+        "strikethroughPriceWithTaxesAndFeesToShowUsers": "393",
+        "totalMandatoryFees": "0.00",
+        "totalPriceWithMandatoryFees": "393.10",
+        "formattedTotalPriceWithMandatoryFees": "$ 393.10",
+        "userPriceType": "RateForWholeStayWithTaxes",
+        "priceAdjustments": [],
+        "checkoutPriceType": "total",
+        "airAttached": false,
+        "roomTypeCode": "201337748",
+        "ratePlanCode": "206503213",
+        "showResortFeeMessage": false,
+        "resortFeeInclusion": false
+      },
+      "rateCurrencyCode": "USD",
+      "rateCurrencySymbol": "$",
+      "roomsLeftAtThisRate": "13",
+      "latitude": "47.61387",
+      "longitude": "-122.34131",
+      "proximityDistanceInMiles": "0.38003934164905995",
+      "proximityDistanceInKiloMeters": "0.6114833007133375",
+      "largeThumbnailUrl": "/hotels/1000000/10000/6900/6839/6839_81_d.jpg",
+      "thumbnailUrl": "/hotels/1000000/10000/6900/6839/6839_81_n.jpg",
+      "discountMessage": "",
+      "isDiscountRestrictedToCurrentSourceType": false,
+      "isSameDayDRR": false,
+      "isHotelAvailable": true,
+      "notAvailableMessage": "",
+      "isSponsoredListing": false,
+      "hasFreeCancellation": false,
+      "distanceUnit": "Miles",
+      "didGetBackHighestPriceFromSurvey": false,
+      "isDudley": false,
+      "isVipAccess": false,
+      "isPaymentChoiceAvailable": false,
+      "isShowEtpChoice": false,
+      "jsonHotelBrand": {
+        "brandId": "2296",
+        "brandName": "Warwick Owned"
+      },
+      "isMemberDeal": false,
+      "shortDiscountMessage": "",
+      "isMobileExclusive": false
+    }
+  ],
+  "allNeighborhoodsInSearchRegion": [
+    {
+      "name": "Seattle (and vicinity)",
+      "id": 178307
+    },
+    {
+      "name": "Bellevue",
+      "id": 800132
+    },
+    {
+      "name": "Bothell",
+      "id": 6280900
+    },
+    {
+      "name": "Capitol Hill",
+      "id": 6004993
+    },
+    {
+      "name": "Downtown Seattle",
+      "id": 800130
+    },
+    {
+      "name": "Lynnwood",
+      "id": 6054493
+    },
+    {
+      "name": "North Seattle",
+      "id": 6084528
+    },
+    {
+      "name": "Pioneer Square",
+      "id": 6237292
+    },
+    {
+      "name": "Redmond",
+      "id": 6280930
+    },
+    {
+      "name": "Seattle-Tacoma International Airport (SEA)",
+      "id": 800133
+    },
+    {
+      "name": "Snoqualmie",
+      "id": 6054496
+    },
+    {
+      "name": "South Lake Union",
+      "id": 6237246
+    },
+    {
+      "name": "University District",
+      "id": 6054612
+    },
+    {
+      "name": "Woodinville",
+      "id": 6280905
+    }
+  ],
+  "filteredSearchMatchedNoHotels": false,
+  "amenityFilterOptions": {
+    "7": {
+      "isAccessible": "false",
+      "filterName": "Swimming pool",
+      "filterNumOccurrences": "112"
+    },
+    "9": {
+      "isAccessible": "false",
+      "filterName": "Restaurant in hotel",
+      "filterNumOccurrences": "101"
+    },
+    "11": {
+      "isAccessible": "false",
+      "filterName": "Fitness equipment",
+      "filterNumOccurrences": "181"
+    },
+    "12": {
+      "isAccessible": "false",
+      "filterName": "Business services",
+      "filterNumOccurrences": "175"
+    },
+    "13": {
+      "isAccessible": "false",
+      "filterName": "Room service",
+      "filterNumOccurrences": "84"
+    },
+    "14": {
+      "isAccessible": "false",
+      "filterName": "Free parking",
+      "filterNumOccurrences": "138"
+    },
+    "15": {
+      "isAccessible": "false",
+      "filterName": "Spa services on site",
+      "filterNumOccurrences": "19"
+    },
+    "16": {
+      "isAccessible": "false",
+      "filterName": "Free breakfast",
+      "filterNumOccurrences": "133"
+    },
+    "17": {
+      "isAccessible": "false",
+      "filterName": "Pets allowed (conditions apply)",
+      "filterNumOccurrences": "109"
+    },
+    "18": {
+      "isAccessible": "false",
+      "filterName": "Free newspaper",
+      "filterNumOccurrences": "153"
+    },
+    "19": {
+      "isAccessible": "false",
+      "filterName": "High-speed Internet",
+      "filterNumOccurrences": "259"
+    },
+    "26": {
+      "isAccessible": "false",
+      "filterName": "Hair dryer",
+      "filterNumOccurrences": "190"
+    },
+    "27": {
+      "isAccessible": "false",
+      "filterName": "Air conditioning",
+      "filterNumOccurrences": "214"
+    },
+    "58": {
+      "isAccessible": "true",
+      "filterName": "Accessible bathroom",
+      "filterNumOccurrences": "141"
+    },
+    "62": {
+      "isAccessible": "true",
+      "filterName": "In-room accessibility",
+      "filterNumOccurrences": "159"
+    },
+    "63": {
+      "isAccessible": "true",
+      "filterName": "Roll-in shower",
+      "filterNumOccurrences": "120"
+    },
+    "66": {
+      "isAccessible": "false",
+      "filterName": "Free airport transportation",
+      "filterNumOccurrences": "54"
+    },
+    "69": {
+      "isAccessible": "false",
+      "filterName": "Babysitting service",
+      "filterNumOccurrences": "7"
+    },
+    "72": {
+      "isAccessible": "false",
+      "filterName": "Childcare",
+      "filterNumOccurrences": "2"
+    },
+    "312": {
+      "isAccessible": "false",
+      "filterName": "Kitchenette",
+      "filterNumOccurrences": "9"
+    },
+    "369": {
+      "isAccessible": "false",
+      "filterName": "Laundry facilities",
+      "filterNumOccurrences": "166"
+    },
+    "2070": {
+      "isAccessible": "false",
+      "filterName": "Dry cleaning/laundry service",
+      "filterNumOccurrences": "150"
+    },
+    "2158": {
+      "isAccessible": "false",
+      "filterName": "Kitchen",
+      "filterNumOccurrences": "70"
+    }
+  },
+  "starOptions": [
+    {
+      "starRating": 0,
+      "count": 0
+    },
+    {
+      "starRating": 5,
+      "count": 0
+    },
+    {
+      "starRating": 10,
+      "count": 8
+    },
+    {
+      "starRating": 15,
+      "count": 0
+    },
+    {
+      "starRating": 20,
+      "count": 112
+    },
+    {
+      "starRating": 25,
+      "count": 0
+    },
+    {
+      "starRating": 30,
+      "count": 108
+    },
+    {
+      "starRating": 35,
+      "count": 0
+    },
+    {
+      "starRating": 40,
+      "count": 38
+    },
+    {
+      "starRating": 45,
+      "count": 0
+    },
+    {
+      "starRating": 50,
+      "count": 2
+    }
+  ],
+  "priceOptions": [
+    {
+      "minPrice": "0",
+      "maxPrice": "75",
+      "count": 35
+    },
+    {
+      "minPrice": "75",
+      "maxPrice": "124",
+      "count": 80
+    },
+    {
+      "minPrice": "125",
+      "maxPrice": "199",
+      "count": 78
+    },
+    {
+      "minPrice": "200",
+      "maxPrice": "299",
+      "count": 36
+    },
+    {
+      "minPrice": "300",
+      "maxPrice": "0",
+      "count": 4
+    }
+  ]
+}
