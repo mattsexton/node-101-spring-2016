@@ -1,0 +1,32 @@
+# Week 6 Homework - Search Expedia.com for some hotels?
+
+## Objectives
+- Use any module (native or from NPM) to make a request
+  - use: `http://www.expedia.com/m/api/hotel/search`
+  - Read up on the API here: https://www.expedia.com/static/mobile/APIConsole/hotel.html
+  - You will be using the __search__ API
+  - Parameter information for the search API [can be found here](https://www.expedia.com/static/mobile/APIConsole/DescribeObject.html?Object=com.expedia.www.mobile.ui.hotel.viewmodel.HotelSearchFields&type=parameterValue)
+  - There are a few required parameters and some require specific formatting
+    - Read up on the parameter information for formatting
+    - There are two parameters that look the same `room` and `room1`. Just pass `room=1` in your query string and ignore `room1`
+- Make a new `solution.js` for week 6
+  - as before, export a function named `run`.
+  - Run should accept 3 required parameters and 1 optional parameter. These are, in order:
+    - `callback` - required: a failback pattern that you will call when you encounter an error, or you have the results from the request
+      - __HINT__: you will only call the callback with a second parameter when the http request has completed successfully
+    - `location` - required: This can either be a numerical regionId (e.g. 178307) or a string name (e.g. "seattle")
+      - If it is a regionId, you need to set the query string parameter using the key `regionId`, if its a string name, you need to use the key `city`
+      - e.g. `location=178307` your api url will look like `http://www.expedia.com/api?regionId=178307`, if `location="seattle"`, then it will look like `http://www.expedia.com/api?city=seattle`
+    - `startDate` - required: This can either be a Date object, or it can be a date string.
+      - You will need to ensure that the date is a valid date, and extract the properly formatted date. See the API documentation for the proper format
+        - __HINT__: check out the toISOString function on the Date object.
+      - Set the value to the query string key of `checkInDate`
+    - `numberOfNights` - optional: A number that indicates how many nights to search for
+      - You will need to use this to determine the check out date.
+      - __NOTE__ If this value is undefined or not a number, default to 1.
+      - Add the number of days to the start date and create a new date.
+      - Set the value to the query string key of `checkOutDate`
+- Run `node test.js` to test your solution.
+  - __NOTE__ since we are making multiple network requests, it might take a few seconds to complete
+  - If everything completed properly you will receive `Success!` as a message in your terminal/console
+  - The test is using the assert module, so the first failure encountered will stop the program and write an error to your console.
