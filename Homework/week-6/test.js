@@ -25,14 +25,25 @@ const runs = [
   [false, 178307, new Date(curDate.setDate(i--))]
 ];
 
-const work = runs.map(run => new Promise((resolve) => {
+const work = runs.map(run => new Promise(function(resolve) {
   const expectError = run.shift();
-  const callback = (error, data) => resolve({
-    error,
-    data,
-    expectError,
-    run
-  });
+  // const callback = (error, data) => resolve({
+  //   error,
+  //   data,
+  //   expectError,
+  //   run
+  // });
+
+  function callback(error, data) {
+    var data = {
+      error,
+      data,
+      expectError,
+      run
+    };
+
+    resolve(data);
+  }
 
   program.run.apply(null, [callback].concat(run));
 }));
@@ -43,12 +54,20 @@ Promise.all(work)
     console.error(err);
   });
 
+while (true) {}
+
 function checkWork(results) {
   let runMsg;
 
   assert.equal(results.length, runs.length, 'Did not recieve the proper number of results. Did all your runs complete properly?');
 
-  for (const {error, data, expectError, run} of results) {
+  for (const {
+      error,
+      data,
+      expectError,
+      run
+    }
+    of results) {
     runMsg = `for run with parameters: (${JSON.stringify(run).slice(1, -1).replace(/,/g, ', ')})`;
 
     if (expectError) {
